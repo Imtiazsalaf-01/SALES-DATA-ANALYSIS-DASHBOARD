@@ -1,4 +1,8 @@
-# Amazon_Sales_Analysis
+#                                          WEEK 2 - Task  -  <a href="https://we-intern.com/">WeIntern Pvt Ltd</a></b><br>
+SALES DATA ANALYSIS DASHBOARD
+
+
+## Amazon_Sales_Analysis
 
 Have to conduct a detailed year-wise analysis of Amazon sales data to understand sales trends by identifying key metrics and other factors and show the meaningful relationship between attributes.
 
